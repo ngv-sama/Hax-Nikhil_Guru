@@ -1,0 +1,3 @@
+echo "Welcome to Project School 2.0" > file1.txt
+echo "Cyber Security Session" >> file1.txt
+nslookup google.com >> file1.txt
