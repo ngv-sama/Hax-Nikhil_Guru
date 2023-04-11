@@ -1,0 +1,7 @@
+Find the Key Code that is hidden in Challenge2.gif 
+Procedure:
+xxd Challenge2.gif
+unzip Challenge2.gif
+(Challenge2.gif is unzipped to obtain key.txt)
+cat key.txt
+>> 4994905d3464eb4e28cb9ab348efd97055cc54ec
